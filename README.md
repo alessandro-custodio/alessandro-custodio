@@ -2,7 +2,7 @@ Olá, seja bem vindo(a) ao meu perfil do GitHub 👋
 
 Me chamo Alessandro Custódio do Nascimento e segue abaixo algumas informações sobre mim:
 
-🧑‍💼 Possuo 6 anos de experiência em testes/QA em testes manuais/funcionais, de interface e de API.
+🧑‍💼 Possuo 6 anos e 4 meses de experiência em testes/QA em testes manuais/funcionais, de interface e de API.
 
 🧑‍🎓 Sou graduado em Análise e Desenvolvimento de Sistemas pela Univale - Faculdades Integradas do Vale do Ivaí.
 
